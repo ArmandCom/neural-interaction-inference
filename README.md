@@ -2,9 +2,7 @@
 
 This is the pytorch code for the paper [Inferring Relational Potentials in Interacting Systems](https://openreview.net/forum?id=Iwt7oI9cNb).
 
-<p align="center">
-  <video src="assets/teaser_good_trimmed.mp4" width="80%"/>
-</p>
+https://github.com/ArmandCom/neural-interaction-inference/assets/33665810/cb465971-eb0c-498c-8b70-214f6f5d4957
 
 ## Datasets
 
