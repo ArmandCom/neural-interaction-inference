@@ -3,8 +3,11 @@
 This is the pytorch code for the paper [Inferring Relational Potentials in Interacting Systems](https://openreview.net/forum?id=Iwt7oI9cNb).
 
 <p align="center">
-  <img src="assets/teaser_good_trimmed.mp4" width="80%"/>
+  <img src="niip/assets/teaser_good_trimmed.mp4" width="80%"/>
 </p>
+
+<video src="LINK" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Datasets
 
@@ -20,7 +23,7 @@ python train.py --train --num_steps=5 --num_steps_test 5 --num_steps_end 5 --ns_
 
 ## Forecasting
 
-To download the pretrained models, access this [link](https://www.dropbox.com/scl/fo/3t8arx3kzgt57h58g495t/h?rlkey=2xlozc6sc78bqr3f8n164raxm&dl=0) and save it in your machine.
+To download the pretrained models, access this [link](https://www.dropbox.com/scl/fo/3t8arx3kzgt57h58g495t/h?rlkey=2xlozc6sc78bqr3f8n164raxm&dl=0) and save it in your machine. [Charged](https://www.dropbox.com/scl/fi/inkm3m7etdu46hpbq69qk/charged_weights.zip?rlkey=9vzlsoxjq0qh22ofuc8t4pwlp&dl=0), [Springs](https://www.dropbox.com/scl/fi/buwarglwev61etwbubxrp/springs_weights.zip?rlkey=hw7crji0hyzame8c0k0diq394&dl=0).
 
 For each dataset, the main test command is:
 ```
