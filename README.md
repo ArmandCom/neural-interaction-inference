@@ -3,7 +3,7 @@
 This is the pytorch code for the paper [Inferring Relational Potentials in Interacting Systems](https://openreview.net/forum?id=Iwt7oI9cNb).
 
 <p align="center">
-  <img src="assets/teaser_good_trimmed.mp4" width="80%"/>
+  <video src="assets/teaser_good_trimmed.mp4" width="80%"/>
 </p>
 
 ## Datasets
